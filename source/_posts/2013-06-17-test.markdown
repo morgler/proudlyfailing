@@ -1,0 +1,11 @@
+---
+layout: post
+title: "test"
+date: 2013-06-17 15:51
+comments: true
+categories: 
+---
+
+## My first blog post
+
+This is my first blog post with Octopress
